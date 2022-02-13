@@ -1,0 +1,7 @@
+name: mruby-cm6206
+description: CM6206 class
+author: Hiroki Mori
+website: https://github.com/yamori813/mruby-cm6206
+protocol: git
+repository: https://github.com/yamori813/mruby-cm6206.git
+license: BSD
