@@ -18,4 +18,4 @@ jobs:
       - name: Test
         run: |
           cd mruby
-          rake all test
+          rake
