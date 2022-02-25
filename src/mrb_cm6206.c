@@ -1,3 +1,4 @@
+a
 /*
 ** mrb_cm6206.c - CM6206 class
 **
