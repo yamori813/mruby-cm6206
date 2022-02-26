@@ -4,7 +4,7 @@ jobs:
   test:
     runs-on: ubuntu-latest
     env:
-        MRUBY_CONDFIG: ../.github_actions_build_config.rb
+        MRUBY_CONFIG: ../.github_actions_build_config.rb
     steps:
       - uses: actions/checkout@v2
       - name: Install packages
